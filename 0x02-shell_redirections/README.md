@@ -1,0 +1,1 @@
+This project is about redirections in other words coonect multiple commands
