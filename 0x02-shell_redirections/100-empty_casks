@@ -1,1 +1,2 @@
-find -empty
+#!/bin/bash
+ls -1 | find . -empty
